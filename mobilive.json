@@ -1,6 +1,6 @@
 {
-  "showBannerAds":true,
-  "showNativeAds":true,
-  "showLeaguesInterstitialAd":true,
-  "showFixturesInterstitialAd":true,
+  "showBannerAds": true,
+  "showNativeAds": true,
+  "showLeaguesInterstitialAd": true,
+  "showFixturesInterstitialAd": true
 }
